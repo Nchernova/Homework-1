@@ -1,0 +1,15 @@
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\bin\Debug\net7.0\Задания.exe
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\bin\Debug\net7.0\Задания.deps.json
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\bin\Debug\net7.0\Задания.runtimeconfig.json
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\bin\Debug\net7.0\Задания.dll
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\bin\Debug\net7.0\Задания.pdb
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\Задания.csproj.AssemblyReference.cache
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\Задания.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\Задания.AssemblyInfoInputs.cache
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\Задания.AssemblyInfo.cs
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\Задания.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\Задания.dll
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\refint\Задания.dll
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\Задания.pdb
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\Задания.genruntimeconfig.cache
+C:\Users\ZEN\Desktop\ДЗ C#\Задания\obj\Debug\net7.0\ref\Задания.dll
